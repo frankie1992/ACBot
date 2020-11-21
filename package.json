@@ -1,0 +1,22 @@
+{
+  "name": "animal_crossing_bot",
+  "version": "1.0.0",
+  "engines": {
+    "node": "15.2.x"
+  },
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cron": "^1.8.2",
+    "discord.js": "^12.4.1",
+    "dotenv": "^8.2.0",
+    "eslint": "^7.13.0",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
